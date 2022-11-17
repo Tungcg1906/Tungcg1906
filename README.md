@@ -9,9 +9,11 @@
 </h1>
  </div>
 
+<div id="header" align="center">
 <img src="https://komarev.com/ghpvc/?username=Tungcg1906&style=flat-square&color=blue" alt=""/>
+</div>
 
-
+<div id="header" align="center">
 <div id="badges">
   <a href="https://linkedin.com/in/tungnguyen1998">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -27,7 +29,7 @@
   </a>
   
 </div>
-
+</div>
 
  
 - 🎓 Bsc Physics at University of Debrecen (Hungary).
