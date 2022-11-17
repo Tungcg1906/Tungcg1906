@@ -10,7 +10,7 @@
 
 
 <div id="badges">
-  <a href="www.linkedin.com/in/tungnguyen1998">
+  <a href="https://linkedin.com/in/tungnguyen1998">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.facebook.com/tung.nx.7">
