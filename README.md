@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 <div id="badges">
   <a href="[your-linkedin-URL](www.linkedin.com/in/tungnguyen1998)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
