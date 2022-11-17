@@ -1,5 +1,9 @@
 ### Hi there 👋
-https://komarev.com/ghpvc/?username=tungcg1906
+<div id="badges">
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/tungnguyen1998/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+   </a>
+ </div>
 - 🎓 Bsc Physics at University of Debrecen (Hungary).
 - 🎓 Currently Msc in Physics of Data at University of Padova (Italy).
 - 👩🏻‍💻 Interested in data science,  machine learning, and biophysics. 
