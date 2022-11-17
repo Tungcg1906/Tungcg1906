@@ -12,6 +12,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
    </a>
  </div>
+ 
 - 🎓 Bsc Physics at University of Debrecen (Hungary).
 
 - 🎓 Currently Msc in Physics of Data at University of Padova (Italy).
