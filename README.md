@@ -13,7 +13,9 @@
    </a>
  </div>
 - 🎓 Bsc Physics at University of Debrecen (Hungary).
+- 
 - 🎓 Currently Msc in Physics of Data at University of Padova (Italy).
+- 
 - 👩🏻‍💻 Interested in data science,  machine learning, and biophysics. 
 
 
