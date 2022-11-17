@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="badges">
-  <a href="[your-linkedin-URL](linkedin.com/in/tungnguyen1998)">
+  <a href="[your-linkedin-URL](www.linkedin.com/in/tungnguyen1998)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
    </a>
  </div>
