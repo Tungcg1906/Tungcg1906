@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://komarev.com/ghpvc/?username=your-github-username
+https://komarev.com/ghpvc/?username=tungcg1906
 - 🎓 Bsc Physics at University of Debrecen (Hungary).
 - 🎓 Currently Msc in Physics of Data at University of Padova (Italy).
 - 👩🏻‍💻 Interested in data science,  machine learning, and biophysics. 
