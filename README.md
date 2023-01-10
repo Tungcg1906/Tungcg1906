@@ -8,10 +8,13 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
  </div>
+ 
+ 
+
 
 
 <div id="header" align="center">
-![visitors](https://shields-io-visitor-counter.herokuapp.com/badge?page=Tungcg1906&label=Visitors&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)
+<img src=![visitors](https://shields-io-visitor-counter.herokuapp.com/badge?page=Tungcg1906&label=Visitors&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)/>
 </div>
 
 
