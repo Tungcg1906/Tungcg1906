@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="250"/>
 </div>
 
 <div id="header" align="center">
@@ -11,8 +11,10 @@
  
   
 <div id="header" align="center">
-<img src="[https://komarev.com/ghpvc/?](https://shields-io-visitor-counter.herokuapp.com/badge?)username=Tungcg1906&style=flat-square&color=blue" alt=""/>
+ <div id="badges">
+<img src="https://komarev.com/ghpvc/?username=Tungcg1906&style=flat-square&color=blue" alt=""/>
 </div>
+  </div>
 
 
 <div id="header" align="center">
