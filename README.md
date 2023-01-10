@@ -9,9 +9,8 @@
 </h1>
  </div>
 
-<div id="header" align="center">
-<img src="[https://komarev.com/ghpvc/?](https://shields-io-visitor-counter.herokuapp.com/badge?)username=Tungcg1906&style=flat-square&color=blue" alt=""/>
-</div>
+
+![visitors](https://shields-io-visitor-counter.herokuapp.com/badge?page=Tungcg1906&label=Visitors&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)
 
 <div id="header" align="center">
 <div id="badges">
