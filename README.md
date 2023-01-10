@@ -10,7 +10,7 @@
  </div>
 
 <div id="header" align="center">
-<img src="https://komarev.com/ghpvc/?username=Tungcg1906&style=flat-square&color=blue" alt=""/>
+<img src="[https://komarev.com/ghpvc/?](https://shields-io-visitor-counter.herokuapp.com/badge?)username=Tungcg1906&style=flat-square&color=blue" alt=""/>
 </div>
 
 <div id="header" align="center">
