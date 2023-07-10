@@ -32,11 +32,11 @@
   </a>
   
   <a href="https://tungcg1906@gmail.com">
-    <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=cv&logoColor=white%22%20alt=%22cv%20Badge%22%20alt=%22cv%20Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=cv&logoColor=white%22%20alt=%22gmail%20Badge%22%20alt=%22gmail%20Badge"/>
   </a>
 
   <a href="https://tungcg1906.github.io/Digital_CV.github.io/">
-
+    <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=cv&logoColor=white%22%20alt=%22resume%20Badge%22%20alt=%22resume%20Badge"/>
   </a>
 </div>
 </div>
