@@ -22,16 +22,22 @@
   <a href="https://linkedin.com/in/tungnguyen1998">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  
   <a href="https://www.facebook.com/tung.nx.7">
     <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
+  
   <a href="https://twitter.com/XunTngNguyn13">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://tungcg1906@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white%22%20alt=%22gmail%20Badge" alt="Gmail Badge"/>
-  </a>
   
+  <a href="https://tungcg1906@gmail.com">
+    <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=cv&logoColor=white%22%20alt=%22cv%20Badge%22%20alt=%22cv%20Badge"/>
+  </a>
+
+  <a href="https://tungcg1906.github.io/Digital_CV.github.io/">
+
+  </a>
 </div>
 </div>
 
