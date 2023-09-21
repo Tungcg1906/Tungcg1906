@@ -23,20 +23,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
-  <a href="https://www.facebook.com/tung.nx.7">
-    <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-  
-  <a href="https://twitter.com/XunTngNguyn13">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  
-  <a href="https://tungcg1906@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=cv&logoColor=white%22%20alt=%22gmail%20Badge%22%20alt=%22gmail%20Badge"/>
-  </a>
+<a href="mailto:tungcg1906@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
+</a>
+
 
   <a href="https://tungcg1906.github.io/Digital_CV.github.io/">
-    <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=cv&logoColor=white%22%20alt=%22resume%20Badge%22%20alt=%22resume%20Badge"/>
+    <img src="https://img.shields.io/badge/Resume-002333?style=for-the-badge&logo=skillshare&logoColor=white"/>
   </a>
 </div>
 </div>
@@ -50,6 +43,8 @@
 
 
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
+
+
 
 <!--
 **Tungcg1906/Tungcg1906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
