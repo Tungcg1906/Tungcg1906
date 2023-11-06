@@ -34,10 +34,9 @@
 </div>
 </div>
 
+## 🚀 About Me
  
-- 🎓 Bsc Physics at University of Debrecen (Hungary).
-
-- 🎓 Msc Physics of Data at University of Padova (Italy).
+ 🎓 I am Nguyen Xuan Tung, Physicsit/ Data Scientist graduated in Bsc Physics at University of Debrecen (Hungary)/ 🎓 Msc Physics of Data at University of Padova (Italy).
 
 - 👩🏻‍💻 Interested in data science,  machine learning, and biophysics. 
 
