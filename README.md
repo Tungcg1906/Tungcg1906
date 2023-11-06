@@ -28,9 +28,9 @@
 </a>
 
 
-  <a href="https://tungcg1906.github.io/Digital_CV.github.io/">
-    <img src="https://img.shields.io/badge/Resume-002333?style=for-the-badge&logo=skillshare&logoColor=white"/>
-  </a>
+
+  [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://tungcg1906.github.io/Digital_CV.github.io/)
+  
 </div>
 </div>
 
