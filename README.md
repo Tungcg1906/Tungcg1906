@@ -32,7 +32,7 @@
 
 ## 🚀 About Me
  
-- 🎓 I'm Nguyen Xuan Tung, have persued Msc in Physics of Data @UniPD and Bsc Physics @UniDeb.
+- 🎓 I'm Nguyen Xuan Tung, have completed Msc in Physics of Data <a href="https://www.unipd.it/en/educational-offer/master-s-degrees/school-of-science?tipo=LM&scuola=SC&ordinamento=2018&key=SC2443"> @UniPD </a> and Bsc Physics <a href="https://edu.unideb.hu/p/physics-bsc">@UniDeb</a>.
 - 🔭 I’m currently working NLP.
 - 👩🏻‍💻 Interested in data science,  machine learning, and complex systems.
 - 🌐 Visit my [porfolio website](https://tungcg1906.github.io/Digital_CV.github.io/) for complete background and contact.
