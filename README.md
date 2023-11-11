@@ -2,13 +2,6 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="750" height="450"/>
 </div>
 
- 
-  
-<div id="header" align="center">
- <div id="badges">
-<img src="https://komarev.com/ghpvc/?username=Tungcg1906&style=flat-square&color=blue" alt=""/>
-</div>
-  </div>
 
 
 <div id="header" align="center">
@@ -33,9 +26,9 @@
 ## 🚀 About Me
  
 - 🎓 I'm Nguyen Xuan Tung, have completed Msc in Physics of Data <a href="https://www.unipd.it/en/educational-offer/master-s-degrees/school-of-science?tipo=LM&scuola=SC&ordinamento=2018&key=SC2443"> @UniPD </a> and Bsc Physics <a href="https://edu.unideb.hu/p/physics-bsc">@UniDeb</a>.
-- 🔭 I’m currently working NLP.
+- 🔭 I’m currently working on NLP.
+- 🌐 Visit my [porfolio website](https://tungcg1906.github.io/NguyenXuanTung.github.io/) for background and contact.
 - 👩🏻‍💻 Interested in data science,  machine learning, and complex systems.
-- 🌐 Visit my [porfolio website](https://tungcg1906.github.io/NguyenXuanTung.github.io/) for complete background and contact.
 
 ## 🔧 Technologies & Tools
 
@@ -49,8 +42,26 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=AWS&logoColor=white&color=2bbc8a)
 
+## Certifications 📜
+- [OnlyTopTalents Member Certificate](https://verify.netcredential.com/gS6WArff0h) @ OnlyTopTalents
+- [Google Data Analytics Professional Certificate)](https://drive.google.com/file/d/1MsTE705SvurH5T_fgM33fX3d6YdJBBw2/view) @ Google
+- [EITC/AI/DLPTFK](https://drive.google.com/file/d/1mf8Luw8nRssnplWEgCFhSRoJZ4OZU8Qi/view) @ EITCA Academy
+- [ETIC/CP/PPF](https://drive.google.com/file/d/1ZcMNLGAgvoVLhiUUW4v7_86xqDr0092X/view) @ EITCA Academy
+- [Generative AI with Large Language Models](https://drive.google.com/file/d/1RzNnMeHnqUVF8Db_C2-zK9eYflqLhYl5/view) @ DeepLearning.AI
+
 
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/Tungcg1906/count.svg" />
+</p>
+
+<img src="stats.gif" width="90%"><br/><br/>
+
+
+
+
 
 
 
