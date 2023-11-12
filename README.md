@@ -42,7 +42,7 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=AWS&logoColor=white&color=2bbc8a)
 
-## Certifications 📜
+## 📜 Certifications 
 - [OnlyTopTalents Member Certificate](https://verify.netcredential.com/gS6WArff0h) @ OnlyTopTalents
 - [Google Data Analytics Professional Certificate)](https://drive.google.com/file/d/1MsTE705SvurH5T_fgM33fX3d6YdJBBw2/view) @ Google
 - [EITC/AI/DLPTFK](https://drive.google.com/file/d/1mf8Luw8nRssnplWEgCFhSRoJZ4OZU8Qi/view) @ EITCA Academy
