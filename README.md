@@ -43,6 +43,11 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=AWS&logoColor=white&color=2bbc8a)
 
+
+## 📝 My blogs
+- [Neural networks and their applications to Artificial Intelligence (AI)](https://tungcg1906.github.io/NguyenXuanTung.github.io/#three)
+- [Cellular Blueprint: A Comparision of Cells and Electrical Circuits](https://tungcg1906.github.io/NguyenXuanTung.github.io/#three)
+
 ## 📜 Certifications 
 - [OnlyTopTalents Member Certificate](https://verify.netcredential.com/gS6WArff0h) @ OnlyTopTalents
 - [Google Data Analytics Professional Certificate)](https://drive.google.com/file/d/1MsTE705SvurH5T_fgM33fX3d6YdJBBw2/view) @ Google
