@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter Badge"/>
 </a>
 
-<a href="https://discord.com/users/409257413162696705">
+<a href="https://discord.bio/p/409257413162696705">
   <img src="https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord&logoColor=white" alt="discord Badge"/>
 </a>
 
