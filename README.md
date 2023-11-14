@@ -19,6 +19,10 @@
   <img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter Badge"/>
 </a>
 
+<a href="mailto:409257413162696705">
+  <img src="https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord&logoColor=white" alt="discord Badge"/>
+</a>
+
   
 </div>
 </div>
