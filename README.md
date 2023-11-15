@@ -45,9 +45,6 @@
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=AWS&logoColor=white&color=2bbc8a)
 
 
-## 📝 My blogs
-- [Neural networks and their applications to Artificial Intelligence (AI)](https://tungcg1906.github.io/NguyenXuanTung.github.io/#three)
-- [Cellular Blueprint: A Comparision of Cells and Electrical Circuits](https://tungcg1906.github.io/NguyenXuanTung.github.io/#three)
 
 ## 📜 Certifications 
 - [OnlyTopTalents Member Certificate](https://verify.netcredential.com/gS6WArff0h) @ OnlyTopTalents
