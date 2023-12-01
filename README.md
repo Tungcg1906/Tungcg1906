@@ -30,7 +30,9 @@
 - 📍 I'm based in Hanoi, Vietnam. But I'm presently in Padova, Italy.
 - 🔭 I’m currently working on [NLP](https://github.com/Tungcg1906/NLP_project/tree/main) at [Orcawise](https://www.orcawise.com/).
 - 🌐 Explore my [porfolio website](https://tungcg1906.github.io/NguyenXuanTung/) for my background.
+- 🤝 Open to collaborations and excited to contribute to innovative projects!
 - 👩🏻‍💻 Interested in data science,  machine learning, and complex systems.
+
 
 ## 🔧 Technologies & Tools
 
