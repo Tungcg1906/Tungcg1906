@@ -1,28 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="750" height="450"/>
-</div>
 
-
-
-<div id="header" align="center">
-<div id="badges">
-  
-  <a href="https://linkedin.com/in/tungnguyen1998">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  
-<a href="mailto:tungcg1906@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
-</a>
-
-<a href="https://twitter.com/XunTngNguyn13">
-  <img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter Badge"/>
-</a>
-
-
-  
-</div>
-</div>
 
 ## 🚀 About Me
  
@@ -68,7 +44,25 @@
 <img src="stats.gif" width="90%"><br/><br/>
 
 
+<div id="header" align="center">
+<div id="badges">
+  
+  <a href="https://linkedin.com/in/tungnguyen1998">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+<a href="mailto:tungcg1906@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
+</a>
 
+<a href="https://twitter.com/XunTngNguyn13">
+  <img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter Badge"/>
+</a>
+
+
+  
+</div>
+</div>
 
 
 
