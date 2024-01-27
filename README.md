@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on “Particle detectors optimization with deep learning techniques” topic at [INFN](https://www.pd.infn.it/it/).
 - 🌐 Explore my [porfolio website](https://tungcg1906.github.io/NguyenXuanTung/) for my background.
 - 🤝 Open to collaborations and excited to contribute to innovative projects!
-- 👩🏻‍💻 Interested in data science,  machine learning, and complex systems.
+- 👨‍💻 Interested in data science,  machine learning, and complex systems.
 
 
 ## 🔧 Technologies & Tools
