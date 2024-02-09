@@ -31,15 +31,6 @@
 ![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=google-cloud&logoColor=white&color=2bbc8a)
 
 
-## 📜 Certifications 
-- [INFN Cyber ​​security - BASIC](https://drive.google.com/file/d/1c3J-8pK3MG1eMufvuK1jLOELxWIhHKE6/view) @ INFN Padova
-- [OnlyTopTalents Member Certificate](https://verify.netcredential.com/gS6WArff0h) @ OnlyTopTalents
-- [Google Data Analytics Professional Certificate)](https://drive.google.com/file/d/1MsTE705SvurH5T_fgM33fX3d6YdJBBw2/view) @ Google
-- [EITC/AI/DLPTFK](https://drive.google.com/file/d/1mf8Luw8nRssnplWEgCFhSRoJZ4OZU8Qi/view) @ EITCA Academy
-- [ETIC/CP/PPF](https://drive.google.com/file/d/1ZcMNLGAgvoVLhiUUW4v7_86xqDr0092X/view) @ EITCA Academy
-- [Generative AI with Large Language Models](https://drive.google.com/file/d/1RzNnMeHnqUVF8Db_C2-zK9eYflqLhYl5/view) @ DeepLearning.AI
-
-
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center"> 
