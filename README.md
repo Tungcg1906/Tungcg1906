@@ -36,25 +36,24 @@
 <div align="center">
   <table>
     <tr>
-      <th><h3>My university courses projects</h3></th>
-      <th><h3>Team projects I've launched or contributed to</h3></th>
+      <th><h3>University projects</h3></th>
+      <th><h3>Internship/ Working projects</h3></th>
     </tr>
     <tr>
-      <td width="50%">
+      <td width="25%">
         <a href="https://github.com/stars/Tungcg1906/lists/university-projects">
-          <div><img src="https://github.com/Tungcg1906/Tungcg1906/images/universita-degli-studi-di-padova-logo.png" /></div>
+          <div><img src="https://raw.githubusercontent.com/Tungcg1906/Tungcg1906/master/images/universita-degli-studi-di-padova-logo.png" /></div>
         </a>
       </td>
-      <td width="50%">
+      <td width="25%">
         <a href="https://github.com/stars/Tungcg1906/lists/research-project">
-          <div><img src="https://raw.githubusercontent.com/e-caste/e-caste/master/images/logo_weeeopen.svg" /></div>
+          <div><img src="https://raw.githubusercontent.com/Tungcg1906/Tungcg1906/master/images/infn-logo.png" /></div>
         </a>
       </td>
     </tr>
   </table>
   <hr />
   <h3>
-    👇 Scroll down for everything else 👇
   </h3>
 </div>
 
