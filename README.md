@@ -42,7 +42,7 @@
     <tr>
       <td width="50%">
         <a href="https://github.com/stars/Tungcg1906/lists/university-projects">
-          <div><img src="https://github.com/Tungcg1906/tree/master/images/universita-degli-studi-di-padova-logo.png" /></div>
+          <div><img src="https://github.com/Tungcg1906/Tungcg1906/images/universita-degli-studi-di-padova-logo.png" /></div>
         </a>
       </td>
       <td width="50%">
