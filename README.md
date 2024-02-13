@@ -32,7 +32,7 @@
 ![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=google-cloud&logoColor=white&color=2bbc8a)
 
 
-## 📎 Repository
+## 📎 Repositories
 
 <div align="center">
   <table>
