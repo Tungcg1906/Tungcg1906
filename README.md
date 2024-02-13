@@ -42,10 +42,10 @@
     <tr>
       <td width="50%" style="text-align: center;">
         <a href="https://github.com/stars/Tungcg1906/lists/university-projects">
-          <div><img src="https://raw.githubusercontent.com/Tungcg1906/Tungcg1906/master/images/universita-degli-studi-di-padova-logo.png" /></div>
+          <div><img src="https://raw.githubusercontent.com/Tungcg1906/Tungcg1906/master/images/unipd-universita-di-padova.png" /></div>
         </a>
       </td>
-      <td width="50%" style="text-align: center;">
+      <td width="100%" style="text-align: center;">
         <a href="https://github.com/stars/Tungcg1906/lists/research-project">
           <div><img src="https://raw.githubusercontent.com/Tungcg1906/Tungcg1906/master/images/infn-logo.png" /></div>
         </a>
