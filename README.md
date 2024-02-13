@@ -1,5 +1,3 @@
-
-
 ## 🚀 About Me
 
 - 😊 Hi there!!! My name is Nguyen Xuan Tung.
