@@ -71,15 +71,15 @@
 <div id="badges">
   
   <a href="https://linkedin.com/in/tungnguyen1998">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn Badge"/>
   </a>
   
 <a href="mailto:tungcg1906@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
+  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=fff" alt="Gmail Badge"/>
 </a>
 
 <a href="https://twitter.com/XunTngNguyn13">
-  <img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter Badge"/>
+  <img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=fff" alt="twitter Badge"/>
 </a>
 
 
