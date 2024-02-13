@@ -40,12 +40,12 @@
       <th><h3>Internship/ Working projects</h3></th>
     </tr>
     <tr>
-      <td width="25%">
+      <td width="50%" style="text-align: center;">
         <a href="https://github.com/stars/Tungcg1906/lists/university-projects">
           <div><img src="https://raw.githubusercontent.com/Tungcg1906/Tungcg1906/master/images/universita-degli-studi-di-padova-logo.png" /></div>
         </a>
       </td>
-      <td width="25%">
+      <td width="50%" style="text-align: center;">
         <a href="https://github.com/stars/Tungcg1906/lists/research-project">
           <div><img src="https://raw.githubusercontent.com/Tungcg1906/Tungcg1906/master/images/infn-logo.png" /></div>
         </a>
@@ -53,8 +53,7 @@
     </tr>
   </table>
   <hr />
-  <h3>
-  </h3>
+  <h3></h3>
 </div>
 
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
