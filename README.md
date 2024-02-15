@@ -11,7 +11,7 @@
 
 ## 📨 Contacts
 - 📧 Reach me at [Gmail](mailto:tungcg1906@gmail.com).
-- 📲 For quick respond, DM me at [LinkedIn](https://linkedin.com/in/tungnguyen1998) or [Whatsapp](+393518346577).
+- 📲 For quick respond, DM me at [LinkedIn](https://linkedin.com/in/tungnguyen1998) or [WhatsApp](https://wa.me/393518346577?text=Hello%20Tung).
 
 ## 🔧 Technologies & Tools
 
