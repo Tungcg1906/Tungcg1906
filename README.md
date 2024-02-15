@@ -9,9 +9,9 @@
 - 👨‍💻 Interested in data science,  machine learning, and complex systems.
  
 
-## ✉️ Contacts
-- Reach me at [Gmail](mailto:tungcg1906@gmail.com).
-- For quick respond, DM me at [LinkedIn](https://linkedin.com/in/tungnguyen1998).
+## 📨 Contacts
+- 📧 Reach me at [Gmail](mailto:tungcg1906@gmail.com).
+- 📲 For quick respond, DM me at [LinkedIn](https://linkedin.com/in/tungnguyen1998) or [Whatsapp](+393518346577).
 
 ## 🔧 Technologies & Tools
 
