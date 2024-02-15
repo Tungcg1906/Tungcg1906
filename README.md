@@ -9,6 +9,10 @@
 - 👨‍💻 Interested in data science,  machine learning, and complex systems.
  
 
+## ✉️ Contacts
+- Reach me at [Gmail](mailto:tungcg1906@gmail.com).
+- For quick respond, dm me at [LinkedIn](https://linkedin.com/in/tungnguyen1998).
+
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=Ubuntu&logoColor=white&color=bc422b)
@@ -57,33 +61,6 @@
 
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/Tungcg1906/count.svg" />
-</p>
-
-<img src="stats.gif" width="90%"><br/><br/>
-
-
-<div id="header" align="center">
-<div id="badges">
-  
-  <a href="https://linkedin.com/in/tungnguyen1998">
-    <img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn Badge"/>
-  </a>
-  
-<a href="mailto:tungcg1906@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-purple?style=for-the-badge&logo=Gmail&logoColor=fff" alt="Gmail Badge"/>
-</a>
-
-<a href="https://twitter.com/XunTngNguyn13">
-  <img src="https://img.shields.io/badge/twitter-purple?style=for-the-badge&logo=twitter&logoColor=fff" alt="twitter Badge"/>
-</a>
-
-
-  
-</div>
-</div>
 
 
 
