@@ -4,7 +4,6 @@
 - 🎓 I have completed Msc in Physics of Data <a href="https://www.unipd.it/en/educational-offer/master-s-degrees/school-of-science?tipo=LM&scuola=SC&ordinamento=2018&key=SC2443"> @UniPD </a> and Bsc Physics <a href="https://edu.unideb.hu/p/physics-bsc">@UniDeb</a>.
 - 📍 I'm presently in Padova, Italy.
 - 🔭 I’m currently working on “Particle detectors optimization with deep learning techniques” topic at [INFN](https://www.pd.infn.it/it/).
--  🌱 I’m currently learning ROOT.
 - 🌐 Explore my [porfolio website](https://tungcg1906.github.io/NguyenXuanTung/) for my background.
 - 🤝 Open to collaborations.
 - 👨‍💻 Interested in data science,  machine learning, and complex systems.
