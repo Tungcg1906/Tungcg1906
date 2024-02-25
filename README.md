@@ -40,7 +40,7 @@
   <table>
     <tr>
       <th><h3>University projects</h3></th>
-      <th><h3>Internship/ Working projects</h3></th>
+      <th><h3>Internship/ Fellowship projects</h3></th>
     </tr>
     <tr>
       <td width="50%" style="text-align: center;">
