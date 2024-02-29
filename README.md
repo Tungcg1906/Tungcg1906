@@ -47,7 +47,7 @@
           <div><img src="https://raw.githubusercontent.com/Tungcg1906/Tungcg1906/master/images/unipd-universita-di-padova.png" /></div>
         </a>
       </td>
-      <td width="100%" style="text-align: center;">
+      <td width="50%" style="text-align: center;">
         <a href="https://github.com/stars/Tungcg1906/lists/research-project">
           <div><img src="https://raw.githubusercontent.com/Tungcg1906/Tungcg1906/master/images/infn.png" /></div>
         </a>
