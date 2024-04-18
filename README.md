@@ -1,12 +1,6 @@
 ## 🚀 About Me
-
-- 👋 Hi there!!! My name is Nguyen Xuan Tung.
-- 🎓 I have completed Msc in Physics of Data <a href="https://www.unipd.it/en/educational-offer/master-s-degrees/school-of-science?tipo=LM&scuola=SC&ordinamento=2018&key=SC2443"> @UniPD </a> and Bsc Physics <a href="https://edu.unideb.hu/p/physics-bsc">@UniDeb</a>.
-- 🔭 I’m currently working on “Particle detectors optimization with deep learning techniques” topic at [INFN](https://www.pd.infn.it/it/).
-- 🌐 Explore my [porfolio website](https://tungcg1906.github.io/NguyenXuanTung/) for my background.
-- 🤝 Open to collaborations.
-- 👨‍💻 Interested in data science,  machine learning, and complex systems.
  
+Hello! I'm Nguyen Xuan Tung, a passionate individual with a background in Physics and Data Science. I hold a Master's degree in Physics of Data from the University of Padova (UniPD) and a Bachelor's degree in Physics from the University of Debrecen (UniDeb). Currently, I'm engaged in a research project on "Particle detectors optimization with deep learning techniques" at INFN. Feel free to visit my [porfolio website](https://tungcg1906.github.io/NguyenXuanTung/) to learn more about my background. I'm always open to collaboration opportunities and passionate about data science, machine learning, and complex systems. Let's connect and explore exciting possibilities together!
 
 ## 📨 Contacts
 - 📧 Reach me at [Gmail](mailto:tungcg1906@gmail.com).
