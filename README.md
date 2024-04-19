@@ -1,6 +1,10 @@
 ## 🚀 About Me
- 
-Hello! I'm Nguyen Xuan Tung, a passionate individual with a background in Physics and Data Science. I hold a Master's degree in Physics of Data from the University of Padova (UniPD) and a Bachelor's degree in Physics from the University of Debrecen (UniDeb). Currently, I'm engaged in a research project on "Particle detectors optimization with deep learning techniques" at INFN. Feel free to visit my [porfolio website](https://tungcg1906.github.io/NguyenXuanTung/) to learn more about my background. I'm always open to collaboration opportunities and passionate about data science, machine learning, and complex systems. Let's connect and explore exciting possibilities together!
+
+Hello! I am Nguyen Xuan Tung, an enthusiastic individual with a comprehensive background in Physics and Data Science. Holding a Master's degree in Physics of Data from the esteemed University of Padova (UniPD) and a Bachelor's degree in Physics from the University of Debrecen (UniDeb), I bring a wealth of academic knowledge to the table.
+
+Currently, I am deeply immersed in a research endeavor centered on "Particle detectors optimization with deep learning techniques" at INFN, showcasing my dedication to advancing scientific understanding through innovative methodologies.
+
+For further insights into my professional journey, visit my [porfolio website](https://tungcg1906.github.io/NguyenXuanTung/). I am particularly keen on collaboration opportunities and thrive in environments that foster growth and exploration. Let's connect!
 
 ## 📨 Contacts
 - 📧 Reach me at [Gmail](mailto:tungcg1906@gmail.com).
