@@ -10,6 +10,7 @@ For further insights into my professional journey, visit my [porfolio website](h
 - 📧 Reach me at [Gmail](mailto:tungcg1906@gmail.com).
 - 📲 For quick respond, DM me at [LinkedIn](https://linkedin.com/in/tungnguyen1998) or [WhatsApp](https://wa.me/393518346577?text=Hello%20Tung).
 
+<!--
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=Ubuntu&logoColor=white&color=bc422b)
@@ -28,7 +29,7 @@ For further insights into my professional journey, visit my [porfolio website](h
 ![](https://img.shields.io/badge/Tools-Google%20Analytics-E37400?-informational?style=flat&logo=google%20analytics&logoColor=white&color=bc422b)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=bc422b)
 ![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=google-cloud&logoColor=white&color=bc422b)
-
+-->
 
 ## 📁 Projects
 
